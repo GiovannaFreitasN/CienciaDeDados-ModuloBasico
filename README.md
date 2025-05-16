@@ -1,4 +1,4 @@
-# CienciaDeDados-ModuloBasico
+# Ciência de Dados - Modulo Básico
 Neste repositório estão todas oficinas práticas realizadas durante o programa Capacita Brasil / C-Jovem ministrado pela Universidade Estadual do Ceará (UECE) por meio de sua Agência de Inovação (Agin/Uece), pelo Instituto Federal do Ceará (IFCE), Instituto Atlântico e responsáveis pela formação dos estudantes e o acompanhamento durante toda a fase de imersão nas empresas.
 
 ## Conteúdos Estudados
