@@ -29,4 +29,9 @@ Foram abordados conteúdos básicos para a profissão de cientista de dados, sen
 ### Programação aplicada a Ciência de Dados II
 - Desenvolver habilidades para criar visualizações de dados, utilizando ferramentas amplamente empregadas na ciência de dados.
 
-
+--------
+## Habilidade adquiridas
+- Noções de Ciência de Dados e Inteligência Artificial
+- Noções básicas de Estatística para Ciência de Dados
+- Conhecimento em estruturas de dados
+- Bibliotecas Pandas e Numpy
